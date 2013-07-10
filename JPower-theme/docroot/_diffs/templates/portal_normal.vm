@@ -66,7 +66,7 @@ $theme.include($body_top_include)
     Copyright  © 2013 JIB Ltd. All Right Reserved.</div>
 	<div class="clear"></div> 
 
-</div><!-- main_container -->
+</div><!-- main_container  -->
 
 <blockquote>	</blockquote>
 
