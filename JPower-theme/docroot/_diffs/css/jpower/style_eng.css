@@ -28,6 +28,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 .clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; } .clearfix { display: inline-block; } /* Hide from IE Mac \*/ .clearfix { display: block; } /* End hide from IE Mac */ .none { display: none; } /* End Clearfix */
 
+
 /* General Setup
 /*-----------------------------------------------------------------------------------*/
 body{font-family:calibri,Arial, Helvetica, sans-serif;padding:0;font-size:12px;margin:0 auto;color:#000000;}

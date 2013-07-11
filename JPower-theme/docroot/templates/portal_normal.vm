@@ -8,12 +8,12 @@
 	$theme.include($top_head_include)   
 
 #if ($w3c_language_id == "zh-TW")
-	<link rel="stylesheet" type="text/css" href="/JPower-theme/css/jpower/style_chn.css" />
+	<link rel="stylesheet" type="text/css" href="$css_folder/style_chn.css" />
 #else
-	 <link rel="stylesheet" type="text/css" href="/JPower-theme/css/jpower/style_eng.css" />
+	<link rel="stylesheet" type="text/css" href="$css_folder/style_eng.css" />
 #end
 
-<script type="text/javascript" charset="utf-8" src="/JPower-theme/js/jpower/jpower.js"></script>
+<script type="text/javascript" charset="utf-8" src="$javascript_folder/jpower.js"></script>
 <style type="text/css">
 body {
 	background-repeat: repeat-x;
@@ -23,8 +23,8 @@ body {
 
 </head>
 
-<body onload="MM_preloadImages('/JPower-theme/images/jpower/menu-2_01.png','/JPower-theme/images/jpower/menu-2_02.png','/JPower-theme/images/jpower/menu-2_03.png','/JPower-theme/images/jpower/menu-2_04.png','/JPower-theme/images/jpower/menu-2_05.jpg','/JPower-theme/images/jpower/menu-2_06.png','/JPower-theme/images/jpower/lang-07-over_01.jpg','/JPower-theme/images/jpower/lang-07-over_03.jpg',
-/JPower-theme/images/jpower/menu-2_01_chn.png','/JPower-theme/images/jpower/menu-2_02_chn.png','/JPower-theme/images/jpower/menu-2_03_chn.png','/JPower-theme/images/jpower/menu-2_04_chn.png','/JPower-theme/images/jpower/menu-2_05_chn.jpg','/JPower-theme/images/jpower/menu-2_06_chn.png')">
+<body onload="MM_preloadImages('$images_folder/menu-2_01.png','$images_folder/menu-2_02.png','$images_folder/menu-2_03.png','$images_folder/menu-2_04.png','$images_folder/menu-2_05.jpg','$images_folder/menu-2_06.png','$images_folder/lang-07-over_01.jpg','$images_folder/lang-07-over_03.jpg',
+$images_folder/menu-2_01_chn.png','$images_folder/menu-2_02_chn.png','$images_folder/jpower/menu-2_03_chn.png','$images_folder/menu-2_04_chn.png','$images_folder/menu-2_05_chn.jpg','$images_folder/menu-2_06_chn.png')">
 
 $theme.include($body_top_include)
 
