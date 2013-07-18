@@ -6,7 +6,7 @@
   	  		<div class="lang-inside"><a href="/zh_TW/web/guest/$page.getName($locale)"><img src="$images_folder/lang-07_03.jpg" alt="" height="25" id="Image8" onmouseover="MM_swapImage('Image8','','$images_folder/lang-07-over_03.jpg',1)" onmouseout="MM_swapImgRestore()" /></a></div>
     	</div>
   		<div class="menu">
-  	  		<div class="menutab"><a href=""><img src="$images_folder/menu-1_01.png" height="20" id="Image1" onmouseover="MM_swapImage('Image1','','$images_folder/menu-2_01.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+  	  		<div class="menutab"><a href="/web/guest/home"><img src="$images_folder/menu-1_01.png" height="20" id="Image1" onmouseover="MM_swapImage('Image1','','$images_folder/menu-2_01.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
   	  		<div class="menutab2"><a href=""><img src="$images_folder/menu-1_02.png" height="20" id="Image2" onmouseover="MM_swapImage('Image2','','$images_folder/menu-2_02.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
 			 <div class="menutab3">
 				<style type="text/css"></style>
