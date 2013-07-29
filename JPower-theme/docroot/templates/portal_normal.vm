@@ -40,6 +40,7 @@ $theme.include($body_top_include)
     	#if (!$is_signed_in)
 			<a href="$sign_in_url" id="sign-in" rel="nofollow">$sign_in_text</a>
 		#end
+		    
 	
 			#if ($w3c_language_id == "zh-TW")
 				#parse ("$full_templates_path/menu_chn.vm")
