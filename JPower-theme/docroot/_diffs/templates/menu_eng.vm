@@ -7,7 +7,7 @@
     	</div>
   		<div class="menu">
   	  		<div class="menutab"><a href="/web/guest/home"><img src="$images_folder/menu-1_01.png" height="20" id="Image1" onmouseover="MM_swapImage('Image1','','$images_folder/menu-2_01.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
-  	  		<div class="menutab2"><a href=""><img src="$images_folder/menu-1_02.png" height="20" id="Image2" onmouseover="MM_swapImage('Image2','','$images_folder/menu-2_02.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+  	  		<div class="menutab2"><a href="/web/guest/what-s-new"><img src="$images_folder/menu-1_02.png" height="20" id="Image2" onmouseover="MM_swapImage('Image2','','$images_folder/menu-2_02.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
 			 <div class="menutab3">
 				<style type="text/css"></style>
 		<script type="text/javascript" src="$javascript_folder/jquery.js"></script>
@@ -29,8 +29,8 @@
 		<ul id='nav'>
 			<li> <a href='#'><img src="$images_folder/menu-1_03.png" height="20" id="Image3" onmouseover="MM_swapImage('Image3','','$images_folder/menu-2_03.png',1)" onmouseout="MM_swapImgRestore()" /></a>
 				<ul>
-					<li style='background-color:#ffffff;'><a href=collection.html>Collection</a></li>
-					<li style='background-color:#ffffff;'><a href=project.html>Projects</a></li>
+					<li style='background-color:#ffffff;'><a href="/web/guest/collection">Collection</a></li>
+					<li style='background-color:#ffffff;'><a href="/web/guest/projects">Projects</a></li>
 				</ul>
 			</li>
 		</ul>
@@ -57,8 +57,8 @@
 		<ul id='nav2'>
 			<li> <a href='#'><img src="$images_folder/menu-1_04.png" height="20" id="Image4" onmouseover="MM_swapImage('Image4','','$images_folder/menu-2_04.png',1)" onmouseout="MM_swapImgRestore()" /></a>
 				<ul>
-					<li style='background-color:#ffffff;'><a href=collection2.html>Collection</a></li>
-					<li style='background-color:#ffffff;'><a href=application.html>Application</a></li>
+					<li style='background-color:#ffffff;'><a href="/web/guest/collection1">Collection</a></li>
+					<li style='background-color:#ffffff;'><a href="/web/guest/application">Application</a></li>
 				</ul>
 			</li>
 			</ul>
