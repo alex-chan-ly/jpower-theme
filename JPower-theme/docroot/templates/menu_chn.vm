@@ -3,11 +3,12 @@
   		<div class="langauge">
   	  		<div class="lang-inside"><a href="/web/guest/$page.getName($locale)"><img src="$images_folder/lang-07_01.jpg" height="25" id="Image7" onmouseover="MM_swapImage('Image7','','$images_folder/lang-07-over_01.jpg',1)" onmouseout="MM_swapImgRestore()" /></a></div>
   	  		<div class="lang-inside"><img src="$images_folder/lang-07_02.jpg" alt="" height="25" /></div>
-  	  		<div class="lang-inside"><a href="/zh_TW/web/guest/$page.getName($locale)"><img src="$images_folder/lang-07_03.jpg" alt="" height="25" id="Image8" onmouseover="MM_swapImage('Image8','','$images_folder/lang-07-over_03.jpg',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+  	  		<!-- div class="lang-inside"><a href="/zh_TW/web/guest/$page.getName($locale)"><img src="$images_folder/lang-07_03.jpg" alt="" height="25" id="Image8" onmouseover="MM_swapImage('Image8','','$images_folder/lang-07-over_03.jpg',1)" onmouseout="MM_swapImgRestore()" /></a></div -->
+  	  		<div class="lang-inside"><img src="$images_folder/lang-07_03.jpg" height="25"/></div>
     	</div>
   		<div class="menu">
-  	  		<div class="menutab"><a href="/web/guest/home"><img src="$images_folder/menu-1_01_chn.png" height="20" id="Image1" onmouseover="MM_swapImage('Image1','','$images_folder/menu-2_01_chn.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
-  	  		<div class="menutab2"><a href="/web/guest/what-s-new"><img src="$images_folder/menu-1_02_chn.png" height="20" id="Image2" onmouseover="MM_swapImage('Image2','','$images_folder/menu-2_02_chn.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+  	  		<div class="menutab"><a href="/zh_TW/web/guest/home"><img src="$images_folder/menu-1_01_chn.png" height="20" id="Image1" onmouseover="MM_swapImage('Image1','','$images_folder/menu-2_01_chn.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+  	  		<div class="menutab2"><a href="/zh_TW/web/guest/what-s-new"><img src="$images_folder/menu-1_02_chn.png" height="20" id="Image2" onmouseover="MM_swapImage('Image2','','$images_folder/menu-2_02_chn.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
 			 <div class="menutab3">
 				<style type="text/css"></style>
 		<script type="text/javascript" src="$javascript_folder/jquery.js"></script>
@@ -29,8 +30,8 @@
 		<ul id='nav'>
 			<li> <a href='#'><img src="$images_folder/menu-1_03_chn.png" height="20" id="Image3" onmouseover="MM_swapImage('Image3','','$images_folder/menu-2_03_chn.png',1)" onmouseout="MM_swapImgRestore()" /></a>
 				<ul>
-					<li style='background-color:#ffffff;'><a href="/web/guest/collection">系列</a></li>
-					<li style='background-color:#ffffff;'><a href="/web/guest/projects">工程</a></li>
+					<li style='background-color:#ffffff;'><a href="/zh_TW/web/guest/collection">系列</a></li>
+					<li style='background-color:#ffffff;'><a href="/zh_TW/web/guest/projects">工程</a></li>
 				</ul>
 			</li>
 		</ul>
@@ -57,8 +58,8 @@
 		<ul id='nav2'>
 			<li> <a href='#'><img src="$images_folder/menu-1_04_chn.png" height="20" id="Image4" onmouseover="MM_swapImage('Image4','','$images_folder/menu-2_04_chn.png',1)" onmouseout="MM_swapImgRestore()" /></a>
 				<ul>
-					<li style='background-color:#ffffff;'><a href="/web/guest/collection1">系列</a></li>
-					<li style='background-color:#ffffff;'><a href="/web/guest/application">用途</a></li>
+					<li style='background-color:#ffffff;'><a href="/zh_TW/web/guest/collection1">系列</a></li>
+					<li style='background-color:#ffffff;'><a href="/zh_TW/web/guest/application">用途</a></li>
 				</ul>
 			</li>
 			</ul>
@@ -88,12 +89,12 @@
 				<ul>
 					<li style='background-color:#ffffff;'><a href=service.html>服務流程</a></li>
 					<li style='background-color:#ffffff;'><a href=team.html>優質團隊</a></li>
-					<li style='background-color:#ffffff;'><a href=faq.html>常問問題</a></li>
+					<li style='background-color:#ffffff;'><a href="/zh_TW/web/guest/faq">常問問題</a></li>
 				</ul>
 			</li>
 		</ul>
 		</div><!-- menutab 5 -->
-  	  <div class="menutab6"><a href='#'><img src="$images_folder/menu-1_06_chn.png" height="20" id="Image6" onmouseover="MM_swapImage('Image6','','$images_folder/menu-2_06_chn.png',1)" onmouseout="MM_swapImgRestore()" /></a>
+  	  <div class="menutab6"><a href="/zh_TW/web/guest/contactus"><img src="$images_folder/menu-1_06_chn.png" height="20" id="Image6" onmouseover="MM_swapImage('Image6','','$images_folder/menu-2_06_chn.png',1)" onmouseout="MM_swapImgRestore()" /></a>
 		</div><!-- menutab 6 -->
 		
 

@@ -3,7 +3,8 @@
   		<div class="langauge">
   	  		<div class="lang-inside"><a href="/web/guest/$page.getName($locale)"><img src="$images_folder/lang-07_01.jpg" height="25" id="Image7" onmouseover="MM_swapImage('Image7','','$images_folder/lang-07-over_01.jpg',1)" onmouseout="MM_swapImgRestore()" /></a></div>
   	  		<div class="lang-inside"><img src="$images_folder/lang-07_02.jpg" alt="" height="25" /></div>
-  	  		<div class="lang-inside"><a href="/zh_TW/web/guest/$page.getName($locale)"><img src="$images_folder/lang-07_03.jpg" alt="" height="25" id="Image8" onmouseover="MM_swapImage('Image8','','$images_folder/lang-07-over_03.jpg',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+  	  		<!-- div class="lang-inside"><a href="/zh_TW/web/guest/$page.getName($locale)"><img src="$images_folder/lang-07_03.jpg" alt="" height="25" id="Image8" onmouseover="MM_swapImage('Image8','','$images_folder/lang-07-over_03.jpg',1)" onmouseout="MM_swapImgRestore()" /></a></div -->
+  	  		<div class="lang-inside"><img src="$images_folder/lang-07_03.jpg" height="25"/></div>
     	</div>
   		<div class="menu">
   	  		<div class="menutab"><a href="/web/guest/home"><img src="$images_folder/menu-1_01.png" height="20" id="Image1" onmouseover="MM_swapImage('Image1','','$images_folder/menu-2_01.png',1)" onmouseout="MM_swapImgRestore()" /></a></div>
@@ -93,7 +94,7 @@
 			</li>
 		</ul>
 		</div><!-- menutab 5 -->
-  	  <div class="menutab6"><a href='#'><img src="$images_folder/menu-1_06.png" height="20" id="Image6" onmouseover="MM_swapImage('Image6','','$images_folder/menu-2_06.png',1)" onmouseout="MM_swapImgRestore()" /></a>
+  	  <div class="menutab6"><a href="/web/guest/contactus"><img src="$images_folder/menu-1_06.png" height="20" id="Image6" onmouseover="MM_swapImage('Image6','','$images_folder/menu-2_06.png',1)" onmouseout="MM_swapImgRestore()" /></a>
 		</div><!-- menutab 6 -->
 		
 
