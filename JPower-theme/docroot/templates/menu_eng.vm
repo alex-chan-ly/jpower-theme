@@ -87,8 +87,9 @@
 		<ul id='nav3'>
 			<li> <a href='#'><img src="$images_folder/menu-1_05.jpg" height="20" id="Image5" onmouseover="MM_swapImage('Image5','','$images_folder/menu-2_05.jpg',1)" onmouseout="MM_swapImgRestore()" /></a>
 				<ul>
-					<li style='background-color:#ffffff;'><a href="/web/guest/services">Services</a></li>
-					<li style='background-color:#ffffff;'><a href="/web/guest/team">Team</a></li>
+					<li style='background-color:#ffffff;'><a href="/web/guest/whoweare">Who We Are</a></li>				
+					<li style='background-color:#ffffff;'><a href="/web/guest/whatwedo">What We Do</a></li>
+					<li style='background-color:#ffffff;'><a href="/web/guest/ourservice">Our Service</a></li>
 					<li style='background-color:#ffffff;'><a href="/web/guest/faq">FAQ</a></li>
 				</ul>
 			</li>
